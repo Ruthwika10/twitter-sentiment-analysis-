@@ -1,0 +1,139 @@
+{
+  "summary": {
+    "total_tweets": 14,
+    "avg_polarity": 0.24477427334570193,
+    "std_polarity": 0.3789869858994135,
+    "avg_subjectivity": 0.3297464440321583
+  },
+  "sentiment_distribution": {
+    "Neutral": 9,
+    "Positive": 1,
+    "Extremely Positive": 3,
+    "Slightly Positive": 1
+  },
+  "top_positive_tweets": [
+    {
+      "text": "Automating tasks with python is awesome! #python",
+      "polarity": 1.0,
+      "category": "Extremely Positive"
+    },
+    {
+      "text": "Python and music, perfect combo. #python #music",
+      "polarity": 1.0,
+      "category": "Extremely Positive"
+    },
+    {
+      "text": "Python is great for web development. #python",
+      "polarity": 0.8,
+      "category": "Extremely Positive"
+    },
+    {
+      "text": "Python makes data analysis easy! #python",
+      "polarity": 0.43333333333333335,
+      "category": "Positive"
+    },
+    {
+      "text": "Started a new python project today! #python",
+      "polarity": 0.13636363636363635,
+      "category": "Slightly Positive"
+    },
+    {
+      "text": "Party least receive say or single. Prevent prevent husband affect. May himself cup style evening protect. Effect another themselves stage perform.\n2,alex23,Learning python is fun and powerful! #python\"",
+      "polarity": 0.057142857142857134,
+      "category": "Neutral"
+    },
+    {
+      "text": "Python scripts automate my workflow. #python",
+      "polarity": 0.0,
+      "category": "Neutral"
+    },
+    {
+      "text": "Listening to music while coding in python. #music #python",
+      "polarity": 0.0,
+      "category": "Neutral"
+    },
+    {
+      "text": "Just solved a problem using python. #python",
+      "polarity": 0.0,
+      "category": "Neutral"
+    },
+    {
+      "text": "Python and music data analysis rocks! #python #music",
+      "polarity": 0.0,
+      "category": "Neutral"
+    }
+  ],
+  "top_negative_tweets": [
+    {
+      "text": "Python scripts automate my workflow. #python",
+      "polarity": 0.0,
+      "category": "Neutral"
+    },
+    {
+      "text": "Listening to music while coding in python. #music #python",
+      "polarity": 0.0,
+      "category": "Neutral"
+    },
+    {
+      "text": "Just solved a problem using python. #python",
+      "polarity": 0.0,
+      "category": "Neutral"
+    },
+    {
+      "text": "Python and music data analysis rocks! #python #music",
+      "polarity": 0.0,
+      "category": "Neutral"
+    },
+    {
+      "text": "Music and python, my two passions. #music #python",
+      "polarity": 0.0,
+      "category": "Neutral"
+    },
+    {
+      "text": "Python is the future of programming. #python",
+      "polarity": 0.0,
+      "category": "Neutral"
+    },
+    {
+      "text": "Music playlist for coding in python. #music #python",
+      "polarity": 0.0,
+      "category": "Neutral"
+    },
+    {
+      "text": "Writing music lyrics in python. #music #python",
+      "polarity": 0.0,
+      "category": "Neutral"
+    },
+    {
+      "text": "Party least receive say or single. Prevent prevent husband affect. May himself cup style evening protect. Effect another themselves stage perform.\n2,alex23,Learning python is fun and powerful! #python\"",
+      "polarity": 0.057142857142857134,
+      "category": "Neutral"
+    },
+    {
+      "text": "Started a new python project today! #python",
+      "polarity": 0.13636363636363635,
+      "category": "Slightly Positive"
+    }
+  ],
+  "detailed_tweets": [
+    {
+      "id": 0,
+      "text": "Party least receive say or single. Prevent prevent husband affect. May himself cup style evening protect. Effect another themselves stage perform.\n2,alex23,Learning python is fun and powerful! #python\"",
+      "clean_text": "party least receive say or single prevent prevent husband affect may himself cup style evening protect effect another themselves stage perform 2 alex23 learning python is fun and powerful",
+      "polarity": 0.057142857142857134,
+      "subjectivity": 0.45357142857142857,
+      "sentiment_category": "Neutral",
+      "features": {
+        "length": 201,
+        "word_count": 28,
+        "char_count": 162,
+        "exclamation_count": 1,
+        "question_count": 0,
+        "caps_count": 5,
+        "caps_ratio": 0.024875621890547265,
+        "positive_word_count": 0,
+        "negative_word_count": 0
+      },
+      "cluster": 
+    }
+  }
